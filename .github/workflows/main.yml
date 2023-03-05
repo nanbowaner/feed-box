@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Update gist
-        uses: albertocc/feed-box@master
+        uses: nanbowaner/feed-box@master
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       GIST_ID: 2d96da19937b0b18506f65764e23ba0d
