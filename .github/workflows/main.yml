@@ -12,4 +12,4 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       GIST_ID: 2d96da19937b0b18506f65764e23ba0d
-      RSS_URL: 'https://piped-api.hostux.net/feed/rss?authToken=2ab8711a-9f11-432c-961d-b5c7703baa5f'
+      RSS_URL: 'https://zh.wikinews.org/w/index.php?title=Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85&feed=atom'
